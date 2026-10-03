@@ -12,6 +12,8 @@ I learn by building web projects: shaping an idea into a clear interface, adding
 - **[MÖBEL Furniture Store](https://github.com/Erentass6/Furniture-E-Commerce-UI)** — Static storefront concept with product browsing, search, cart interactions, and a checkout screen.
 - **[Maré Istanbul](https://github.com/Erentass6/Bistro-Web-Project)** — Turkish café landing page with a custom visual direction, menu, gallery, and responsive navigation.
 - **[Penalty Kick](https://github.com/Erentass6/Penalty-game-js)** — Browser mini-game with shot selection, score tracking, keyboard controls, goalkeeper animation, and Web Audio effects.
+- **[Dragon Temple Run](https://github.com/Erentass6/Dragon-Temple-Game-2.8)** — Canvas arcade game with procedural scenery, keyboard and touch input, particle effects, and synthesized audio.
+- **[Taskmaster](https://github.com/Erentass6/Taskmaster)** — Turkish-language task manager with create, complete, and delete flows backed by browser-local storage.
 
 ## Tools I use
 
