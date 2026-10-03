@@ -1,27 +1,27 @@
-# Hi there 👋 I'm Eren Taş
+# Eren Taş
 
-## 🚀 About Me
-- 💻 Computer Programming student
-- ⚡ Building real-world web projects
-- 🤖 Developing automation systems and AI-integrated applications
-- 📈 Continuously improving and learning new technologies
+**Computer Programming Student · Junior Front-End Developer**
 
-## 🛠️ Technologies & Tools
-- HTML, CSS, JavaScript
-- React (learning)
-- Git & GitHub
+I learn by building web projects: shaping an idea into a clear interface, adding useful interactions, and refining the details. My current work spans frontend applications, interactive demos, and AI workflow experiments.
 
-## 📌 Projects
-Here are some of my projects:
-- 🍽️ Restaurant Website
-- ☕ Cafe Website
-- 🤖 AI-based automation systems (in progress)
+[Portfolio site](https://erentass6.github.io) · [All repositories](https://github.com/Erentass6?tab=repositories)
 
-## 🎯 Goals
-- Become a professional frontend developer
-- Develop AI-integrated systems and intelligent solutions
-- Build essential automation systems applicable to every industry
-- Improve in modern web technologies
+## Selected work
 
-## 📫 Contact
-- GitHub: https://github.com/Erentass6
+- **[Synapse AI](https://github.com/Erentass6/synapse-ai)** — A Next.js and TypeScript prototype for designing workflow graphs, validating dependencies, and inspecting execution traces. The README explains the mock provider and current limitations.
+- **[MÖBEL Furniture Store](https://github.com/Erentass6/Furniture-E-Commerce-UI)** — Static storefront concept with product browsing, search, cart interactions, and a checkout screen.
+- **[Maré Istanbul](https://github.com/Erentass6/Bistro-Web-Project)** — Turkish café landing page with a custom visual direction, menu, gallery, and responsive navigation.
+- **[Penalty Kick](https://github.com/Erentass6/Penalty-game-js)** — Browser mini-game with shot selection, score tracking, keyboard controls, goalkeeper animation, and Web Audio effects.
+
+## Tools I use
+
+**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js  
+**Workflow:** Git · GitHub · Vitest
+
+## Current direction
+
+I’m growing my frontend skills through practical projects and looking for junior web or frontend opportunities where I can contribute and keep learning.
+
+## Contact
+
+GitHub: [@Erentass6](https://github.com/Erentass6)
